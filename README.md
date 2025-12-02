@@ -40,6 +40,8 @@ deposits or withdrawals operations, which do not increase totalSupply to the `MI
 - Native fee loss on failed `wiTryVaultComposer.LzReceive` execution. In the case of underpayment, users will lose their fee and will have to pay twice to complete the unstake request.
 - Non-standard ERC20 tokens may break the transfer function. If a non-standard token is recovered using a raw transfer, the function may appear to succeed, even though no tokens were transferred, or it may revert unexpectedly. This can result in tokens becoming stuck in the contract, which breaks the tokens rescue mechanism.
 
+A [preliminary draft of the report](https://github.com/code-423n4/2025-11-brix-money/blob/main/iTRY-ZellicAuditReportDraft.pdf) has been added to this repo. 
+
 # Overview
 
 The protocol enables the minting and redemption of iTRY tokens (and their staked counterpart wiTRY), which are backed by Digital Liquidity Fund (DLF) tokens representing shares of a traditional fund investing in Turkish Money Market Funds (MMF). The protocol includes cross-chain functionality via LayerZero integration.
@@ -47,6 +49,7 @@ The protocol enables the minting and redemption of iTRY tokens (and their staked
 ## Links
 
 - **Previous audits:** Zellic Report - [See known issues](#zellic-audit-report-issues)
+    - [Preliminary report draft](https://github.com/code-423n4/2025-11-brix-money/blob/main/iTRY-ZellicAuditReportDraft.pdf)
 - **Documentation:** https://hackmd.io/@EKJz7PaeT2GeAUJS83WWVw/SJPLb3QZWe
 - **Website:** https://www.brix.money/
 - **X/Twitter:** https://x.com/brix_money
