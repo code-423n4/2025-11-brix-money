@@ -1,0 +1,142 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / brix-money-nov
+==============================================================
+
+[11/26/2025 18:55] itsmetechjay
+👋 Hello and welcome to the $23,000 in USDC **Brix Money** audit channel!
+
+📆 Audit opens Wednesday, 26 November 2025 20:00 (20:00 UTC) and runs through Wednesday, 03 December 2025 20:00 (20:00 UTC) (7 days).
+
+**❗A coded, runnable PoC is required for all High/Medium submissions to this audit.**
+- The audit repo includes a basic PoC template to run the test suite.
+- PoCs **must** use the test suite provided in the audit repo.
+- Your submission will be marked as `Insufficient` if the POC is not runnable and working with the provided test suite.
+- Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+Join the audit: https://code4rena.com/audits/2025-11-brix-money
+
+{Reactions}
+🔥 
+
+[11/26/2025 20:05] thebrittfactor
+🔎 **Got audit-related questions? Here's your roadmap** 
+
+Find the information you need efficiently:
+
+1. **Review project documentation** in the audit repo. [Join the audit](https://code4rena.com/audits/2025-11-brix-money) for access.
+2. Use **🤖 Docs Wolf,** C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.
+3. If you still need clarification after reviewing the docs, feel free to **ask the Brix Money team** directly. From [the audit page](https://code4rena.com/audits/2025-11-brix-money), join the audit and select the `Q & A` tab.
+
+To ensure sponsors can focus their time on questions that truly need their expertise, please: 
+
+- Reference what you've already checked in the docs
+- Be specific about what you need clarified
+- Use thread replies to keep discussions organized
+
+**Notes:**
+- Docs Wolf will be available tomorrow.
+- [V12](https://v12.zellic.io/), [Zellic](https://zellic.io/)'s in-house AI auditing tool, will not be ran at this time. 
+
+Good hunting!
+
+
+[11/26/2025 20:38] thebrittfactor
+@🐺Wardens Docs Wolf is now available! Please see instructions above.
+
+
+[12/02/2025 13:50] thebrittfactor
+@🐺Wardens a PR was merged in the Brix Money repo to add the [preliminary Zellic audit report](https://github.com/code-423n4/2025-11-brix-money/blob/main/iTRY-ZellicAuditReportDraft.pdf). All findings within the report [will remain as known issues](https://github.com/code-423n4/2025-11-brix-money?tab=readme-ov-file#zellic-audit-report-issues), as stated in the readme.
+
+{Reactions}
+👍 (7) 
+
+[12/03/2025 20:02] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **Brix Money** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+**What's next: **
+- The sponsor team and judge will review the findings over the next couple of weeks. 
+- Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](https://code4rena.com/audits/2025-11-brix-money).
+- [How judging works at C4](https://docs.code4rena.com/competitions#how-competitive-audits-work)
+
+{Embed}
+https://docs.code4rena.com/competitions
+Competitions | Code4rena
+How competitive audits work at Code4rena
+
+{Reactions}
+👍 (9) ❤️ (3) 
+
+[01/08/2026 20:32] thebrittfactor
+Current status: The judge and sponsors are reviewing a couple final issues before finalizing.
+
+
+[01/21/2026 21:04] thebrittfactor
+Current status: Sponsors are reviewing before we proceed with awards.
+
+{Reactions}
+🔥 (5) 
+
+[01/26/2026 21:33] thebrittfactor
+🤑 🎉  Awards for **Brix Money**:
+
+$4,027.03 USDC » @Kuwatakushi
+$3,238.02 USDC » @bobai23_
+$3,238.02 USDC » @Tarnished
+$2,919.28 USDC » @Tobi
+$1,049.86 USDC » @harry
+$967.58 USDC » @VanGrim | Midgar
+$807.58 USDC » @destinyhunter
+$807.58 USDC » @didy #hacktivist
+$807.58 USDC » @Victor
+$422.01 USDC » @JeRRy
+$47.70 USDC » @Hurricane
+$47.70 USDC » @Web3snr
+$47.70 USDC » @Smacaud
+$47.70 USDC » @newspace
+$47.70 USDC » @ghost
+$47.70 USDC » @hecker
+$47.70 USDC » @Wojack
+$47.70 USDC » @ChainShield Team
+$47.70 USDC » @Hodlturk
+$47.70 USDC » @Albert
+$47.70 USDC » @grannylOves
+$47.70 USDC » @jo
+$47.70 USDC » @djshanwang
+$47.70 USDC » @slvDev
+$47.70 USDC » @Maaly
+
+🏁 Findings summary
+--------------------------------------
+0 High risk findings
+3 Med risk findings
+752 wardens participated
+
+Top Hunter: KuwaTakushi, Bobai23 and Tarnished
+Top Gatherer: tobi0x18
+Top QA report: jerry0422
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+⚠️ Awardees, be sure to [complete your tax reporting info](https://docs.code4rena.com/awarding/incentive-model-and-awards/awarding-process#tax-information-for-code4rena-contributors-wardens-judges-etc) if you haven't already. This must be completed within 30 days (i.e. before Thursday, 26 February 2026) to receive your award distribution for this audit.
+
+{Reactions}
+🔥 (7) ❤️ (7) c4ship (5) 
+
+[03/04/2026 15:00] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 03/13/2026 13:49. Please make sure to grab anything you might need before then.
+
+{Reactions}
+👍 
+
+[03/12/2026 14:15] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 10 message(s)
+==============================================================
